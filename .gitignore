@@ -1,0 +1,4 @@
+voicevox_core
+.env
+download-linux-x64
+output.wav
