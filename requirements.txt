@@ -1,4 +1,4 @@
 discord.py[voice]
 python-dotenv
-google-generativeai
+google-genai
 voicevox-core
